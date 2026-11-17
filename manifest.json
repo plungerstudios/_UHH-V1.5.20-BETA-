@@ -1,0 +1,19 @@
+{
+  "name": "_UHH by Plunger Studios",
+  "short_name": "_UHH",
+  "version": "1.5.20-beta",
+  "description": "Your everyday AI assistant, with a little more you.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#11131b",
+  "theme_color": "#11131b",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
